@@ -1,0 +1,23 @@
+{
+  "name": "mstestbot",
+  "version": "0.0.0",
+  "description": "First test bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tejaswi-R/Microsoftbot.git"
+  },
+  "author": "Tejaswi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tejaswi-R/Microsoftbot/issues"
+  },
+  "homepage": "https://github.com/Tejaswi-R/Microsoftbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.5.3",
+    "restify": "^4.3.0"
+  }
+}
